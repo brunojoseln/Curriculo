@@ -8,4 +8,8 @@
 ### Etecalc
 Calculadora programada em C#
 
+![Eteccalc](https://raw.githubusercontent.com/brunojoseln/Curriculo/master/imagens/Programa.png)
+![Eteccalc](https://raw.githubusercontent.com/brunojoseln/Curriculo/master/imagens/icone.png)
+
+
 [Repositório](https://github.com/brunojoseln/EtecCalc)
