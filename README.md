@@ -1,7 +1,15 @@
-## Bruno José de Lima Neves<br>
-:computer:Desenvolvedor Java e C# / Backend<br>
+## Bruno José<br>
+:computer:Desenvolvedor Java e C# / Back-end<br>
 :european_post_office:Suzano / SP<br>
 :email: brunojoseln@gmail.com
+
+### Cursos
+
+#### Fundação Bradesco :
+C# ,
+Modelagem de dados, 
+Ilustração e design gráfico, 
+Windows 7, Algoritmos  
 
 ### Projetos
 
