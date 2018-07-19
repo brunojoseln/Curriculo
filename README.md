@@ -5,7 +5,7 @@
 
 ### Formação
 
-* **Técnico de Informática**  - ETEC de Poá (cursand 3º Semestre)
+* **Técnico de Informática**  - ETEC de Poá (cursando 3º Semestre)
 
 ### Cursos online
 
