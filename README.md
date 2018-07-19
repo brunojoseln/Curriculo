@@ -23,9 +23,9 @@
   *  ![Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/), 
   *  ![Curso completo do desenvolvedor android](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) (cursando)<br>
 
->### Projetos
+### Projetos
 
-### Etecalc
+* **Etecalc**
 Calculadora programada em C#
 
 ![Eteccalc](https://github.com/brunojoseln/Curriculo/blob/master/imagens/Programa.png)
