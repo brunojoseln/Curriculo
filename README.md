@@ -1,7 +1,11 @@
 ## Bruno José<br>
 :computer:Desenvolvedor Java e C# / Back-end<br>
 :european_post_office:Suzano / SP<br>
-:email: brunojoseln@gmail.com<br>
+:email: brunojoseln@gmail.com</br></br>
+
+### Formação
+
+* **Técnico de Informática**  - ETEC de Poá (7/2017 - 11/2018)
 
 ### Cursos online
 
