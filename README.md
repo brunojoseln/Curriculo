@@ -20,8 +20,8 @@
   *  [Algoritmos](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado.jpeg)<br>
 
 * **Udemy** 
-  *  ![Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/), 
-  *  ![Curso completo do desenvolvedor android](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) (cursando)<br>
+  *  [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/), 
+  *  [Curso completo do desenvolvedor android](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) (cursando)<br>
 
 ### Projetos
 
