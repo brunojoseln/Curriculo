@@ -23,8 +23,8 @@
   *  ![Windows 7](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado%20Windows%207.pdf)<br>
 
 * **Curso em Vídeo:** 
-  *  [Algoritmos](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado.jpeg)<br>
-  *  [MySQL]()<br>
+  *  [Algoritmos,](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado.jpeg)<br>
+  *  [MySQL,]()<br>
   *  [Programação Orientada a Objetos em Java]()<br>
 
 
