@@ -2,18 +2,15 @@
 :computer:Desenvolvedor Java e C# / Back-end<br>
 :european_post_office:Suzano / SP<br>
 :email: brunojoseln@gmail.com</br></br>
-<<<<<<< HEAD
 
 ### Formação
 
 * **Técnico de Informática**  - ETEC de Poá (cursando 3º Semestre)
         
 
-### Formação
+### Cursos
 
-<<<<<<< HEAD
 * [Games 2D - criando seu primeiro jogo](http://www.sp.senac.br/jsp/default.jsp?newsID=DYNAMIC,oracle.br.dataservers.CourseDataServer,selectCourse&course=24048&template=395.dwt&testeira=303&unit=SCI) - Senac Lapa Scipião
-* **Técnico de Informática**  - ETEC de Poá (cursando 3º Semestre)
 
 
 ### Cursos online
