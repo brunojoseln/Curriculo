@@ -2,15 +2,22 @@
 :computer:Desenvolvedor Java e C# / Back-end<br>
 :european_post_office:Suzano / SP<br>
 :email: brunojoseln@gmail.com</br></br>
+<<<<<<< HEAD
 
 ### Formação
 
 * **Técnico de Informática**  - ETEC de Poá (cursando 3º Semestre)
         
+=======
+>>>>>>> 73ce5d64b616332ceb29e145c8fc174dff7153cd
 
-### Cursos
+### Formação
 
+<<<<<<< HEAD
 * [Games 2D - criando seu primeiro jogo](http://www.sp.senac.br/jsp/default.jsp?newsID=DYNAMIC,oracle.br.dataservers.CourseDataServer,selectCourse&course=24048&template=395.dwt&testeira=303&unit=SCI) - Senac Lapa Scipião
+=======
+* **Técnico de Informática**  - ETEC de Poá (cursando 3º Semestre)
+>>>>>>> 73ce5d64b616332ceb29e145c8fc174dff7153cd
 
 ### Cursos online
 
@@ -23,8 +30,11 @@
 
 * **Curso em Vídeo:** 
   *  [Algoritmos](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado.jpeg)<br>
+<<<<<<< HEAD
   *  [MySQL]()<br>
   *  [Programação Orientada a Objetos em Java]()<br>
+=======
+>>>>>>> 73ce5d64b616332ceb29e145c8fc174dff7153cd
 
 * **Udemy** 
   *  [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/), 
