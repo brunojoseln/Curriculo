@@ -24,8 +24,8 @@
 
 * **Curso em Vídeo:** 
   *  [Algoritmos,](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado.jpeg)<br>
-  *  [MySQL,]()<br>
-  *  [Programação Orientada a Objetos em Java]()<br>
+  *  [MySQL,](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado%20MySQL.jpeg)<br>
+  *  [Programação Orientada a Objetos em Java](https://github.com/brunojoseln/Curriculo/blob/master/Certificados/Certificado%20POO.jpg)<br>
 
 
 * **Udemy** 
